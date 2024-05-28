@@ -1,0 +1,5 @@
+[plugin]
+description = "poste.io for Dokku 0.34"
+version = "0.24.2024"
+sponsors = [""]
+[plugin.config]
